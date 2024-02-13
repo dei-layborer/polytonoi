@@ -55,7 +55,7 @@ whereas
 | s            | σ/ς          | Renders as final sigma automatically |
 | t            | τ            |       |
 | u            | υ            |       |
-| v            | φ            |       |
+| f            | φ            |       |
 | x            | χ            |       |
 | ps           | ψ            |       |
 | w            | ω            |       |
