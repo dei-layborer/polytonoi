@@ -54,7 +54,7 @@
   // accent marks, return a combining diacritical (which typist handles properly)
   "/": 0x0301,
   "\\": 0x0300,
-  "=": 0x0303,
+  "=": 0x0342,
   "|": 0x0345,
   ":": 0x0308,
   // rough breathing mark is handled directly in the function
@@ -64,8 +64,8 @@
 )
 
 #let vowelList = (
-  "a", "e", "i", "o", "u", "w",
-  "A", "E", "I", "O", "U", "W"
+  "a", "e", "h", "i", "o", "u", "w",
+  "A", "E", "H", "I", "O", "U", "W"
 )
 
 #let ptgk(txt) = {
